@@ -43,4 +43,4 @@ async def on_message(self, message):
             await message.channel.send('You are right!')
         else:
             await message.channel.send(f'Oops. It is actually {answer}.')
-bot.run("MTIzNzgzNjQ3OTYyNDExODI3Mw.GLEHvZ.sHoXnTImpwSVl3NUAmhQvymd8eaVW5u5nmcffw")
+bot.run("")
